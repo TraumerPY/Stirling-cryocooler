@@ -1,2 +1,0 @@
-model_checkpoint_path: "D:\\my_file\\python_material\\lianxi\\Stirling_cryocooler_regression_model\\PV_prediction_BPNN_train_result\\102030_32_0.002\\my_net/save_net.ckpt"
-all_model_checkpoint_paths: "D:\\my_file\\python_material\\lianxi\\Stirling_cryocooler_regression_model\\PV_prediction_BPNN_train_result\\102030_32_0.002\\my_net/save_net.ckpt"
